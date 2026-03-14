@@ -1,6 +1,6 @@
 # OSS Maintainer Kit Security Web Service Example
 
-![Preview](docs/assets/preview.svg)
+![Preview](docs/assets/social-preview.png)
 
 This repository shows how the `security-sensitive-repo` preset can be used for a deployable web service rather than a packaging-heavy desktop or installer project.
 
